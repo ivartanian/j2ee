@@ -1,6 +1,5 @@
 package com.vartanian.j2ee.generators.impl;
 
-import com.vartanian.j2ee.annotations.EightDigits;
 import com.vartanian.j2ee.annotations.Loggable;
 import com.vartanian.j2ee.annotations.ThirteenDigits;
 import com.vartanian.j2ee.generators.NumberGenerator;
