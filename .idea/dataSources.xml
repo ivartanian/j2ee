@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< Updated upstream
   <component name="DataSourceManagerImpl" format="xml" hash="2033120614">
+=======
+  <component name="DataSourceManagerImpl" format="xml" hash="2888117177">
+>>>>>>> Stashed changes
     <data-source source="LOCAL" name="Derby (Embedded) - jdbc:derby://localhost:1527/chapter04DB;create=true" uuid="a8fb4180-b269-4761-8bb9-3d365991804e">
       <driver-ref>derby.embedded</driver-ref>
       <synchronize>true</synchronize>

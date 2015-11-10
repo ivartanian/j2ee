@@ -25,7 +25,9 @@ public class Book {
 
     @Size(min = 10, max = 2000)
     private String description;
-    private transient String number;
+    
+    @Transient
+    private String number;
 
     private String isbn;
     private Integer nbOfPage;
