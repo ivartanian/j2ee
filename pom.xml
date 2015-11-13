@@ -95,6 +95,25 @@
                 </executions>
             </plugin>
 
+            <!--<plugin>-->
+                <!--<groupId>org.jvnet.jax-ws-commons</groupId>-->
+                <!--<artifactId>jaxws-maven-plugin</artifactId>-->
+                <!--<executions>-->
+                    <!--<execution>-->
+                        <!--<goals>-->
+                            <!--<goal>wsgen</goal>-->
+                        <!--</goals>-->
+                        <!--<configuration>-->
+                            <!--&lt;!&ndash;Optional&ndash;&gt;-->
+                            <!--&lt;!&ndash;Reads a JAX-WS service endpoint implementation class and generates all of the portable artifacts for a JAX-WS web service&ndash;&gt;-->
+                            <!--<genWsdl>true</genWsdl>-->
+                            <!--<verbose>true</verbose>-->
+                            <!--<keep>true</keep>-->
+                        <!--</configuration>-->
+                    <!--</execution>-->
+                <!--</executions>-->
+            <!--</plugin>-->
+
         </plugins>
         <finalName>j2ee</finalName>
     </build>
